@@ -4,5 +4,7 @@ download insta->once installed->tap to open it
 new user->create accout-sign in
 else login in the app
 
+upload photos
+
 
 thank you;)
